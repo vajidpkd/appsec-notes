@@ -27,12 +27,3 @@ It includes tools, techniques, commands, and concepts organized in a structured 
 
 ## 🚀 Goal
 To continuously improve and build a well-structured red team reference that can be used in practical penetration testing scenarios.
-
----
-
-## ⚠️ Disclaimer
-This repository is for educational purposes only. All techniques are practiced in legal lab environments.
-
----
-
-⭐ Feel free to explore, learn, and grow with me!
