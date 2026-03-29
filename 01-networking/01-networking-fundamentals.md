@@ -270,14 +270,5 @@ ping -c 10 -i 0.5 -s 500 <target>
 ping -4 -c 3 <target>
 ping -6 -c 3 <target>
 ```
-
----
-
-## STUDYING NEXT
-- [ ] IP addressing full — IPv4, IPv6, subnetting, CIDR (`02-ip-addressing.md`)
-- [ ] TCP and UDP deep dive
-- [ ] DNS protocol
-- [ ] HTTP / HTTPS
-
 ---
 *Notes by Abdu | Red Team Journey 2026*
