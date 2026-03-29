@@ -1,5 +1,5 @@
 # 02 — IP Address & Subnet Mask
-> **Status:** Done | **Date:** 2026-03-30
+> **Status:** Done | **Date:** 2026-03-29
 > **Covered:** What is IP, IPv4, IPv6 intro, subnet mask, CIDR, Class C, weekly practice plan
 
 ---
