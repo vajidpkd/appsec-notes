@@ -203,14 +203,5 @@ Do this every day this week. Takes only 15 minutes. Do it before bed or after st
 ### Target by end of week:
 - Answer any /24 to /28 question in under 30 seconds
 - No calculator needed for /24 and /25
-
----
-
-## STUDYING TOMORROW
-- [ ] IP addressing deep dive — classes, IPv4 vs IPv6
-- [ ] TCP — how it works, 3-way handshake, ports
-- [ ] UDP — how it differs from TCP
-- [ ] All going into `03-tcp-udp-ip.md`
-
 ---
 *Notes by Abdu | Red Team Journey 2026*
