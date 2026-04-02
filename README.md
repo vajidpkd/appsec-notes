@@ -1,4 +1,4 @@
-# 📘 Red Team Notes & Knowledge Base
+# 📘  offensive security & Knowledge Base
 
 ## 📌 Purpose
 This repository is my personal cybersecurity knowledge base where I document everything I learn during my journey into offensive security.
