@@ -1,5 +1,4 @@
 # 01 — Networking Fundamentals
-> **Status:** In Progress | **Last Updated:** 2026-03-29
 > **Covered today:** What is network, what is internet, IP (intro only), MAC address, Vendor/OUI, MAC spoofing, Ping, ICMP, OSI model all 7 layers
 
 ---

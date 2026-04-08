@@ -1,5 +1,4 @@
 # 03 — TCP, UDP & IP Deep Dive
-> **Status:** Done | **Date:** 2026-04-01
 > **Covered:** Intro to LAN, TCP vs UDP, TCP 3-way handshake, IP basics, Wireshark, subnetting practice
 
 ---
@@ -222,33 +221,6 @@ Info   — summary of what happened
 
 > **Red Team use:** Wireshark captures credentials on HTTP (unencrypted), reveals what services are running, shows network topology, finds cleartext passwords
 
----
-
-## SUBNETTING PRACTICE — WEEK PLAN
-
-Today: **Mixed classes** — /24, /25, /26, /27 combined
-
-### Today's practice targets (subnettingpractice.com)
-For every question, answer all 4:
-```
-1. Network address    → the IP with host part = 0
-2. Broadcast address  → the IP with host part = all 255
-3. First usable host  → network address + 1
-4. Last usable host   → broadcast - 1
-```
-
-### This week schedule
-| Day | Focus |
-|---|---|
-| Mon | /24 only |
-| **Tue** | **/24, /25, /26, /27 mixed ← TODAY** |
-| Wed | All /24 to /28, timed |
-| Thu | Random CIDR, speed drill |
-| Fri | Full timed test |
-| Sat | ipcalc terminal practice |
-| Sun | Write 5 subnets from memory |
-
----
 
 ## COMMANDS — QUICK REFERENCE
 

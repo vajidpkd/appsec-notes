@@ -1,5 +1,4 @@
 # 04 — DNS (Domain Name System)
-> **Status:** Done | **Date:** 2026-04-02
 > **Covered:** What is DNS, how it works step by step, DNS records, nslookup, dig, Wireshark DNS capture, subnetting practice
 
 ---
@@ -294,38 +293,5 @@ sudo tcpdump -i eth0 port 53
 
 ---
 
-## SUBNETTING PRACTICE — DAY 3 OF WEEK
 
-Today: **All /24 to /28 — timed**
-
-Goal: answer each question in under 45 seconds.
-
-```
-Formula reminder:
-Usable hosts = 2^(32 - CIDR) - 2
-
-/24 = 254 hosts
-/25 = 126 hosts
-/26 = 62  hosts
-/27 = 30  hosts
-/28 = 14  hosts
-```
-
-For every question:
-```
-1. Network address   → IP with last octet = 0
-2. Broadcast         → IP with last octet = 255 (or block end)
-3. First host        → network + 1
-4. Last host         → broadcast - 1
-5. How many hosts?   → use formula above
-```
-
----
-
-## STUDYING TOMORROW
-- [ ] HTTP and HTTPS — requests, responses, headers, status codes
-- [ ] How HTTPS encryption works (TLS handshake)
-- [ ] Going into `05-http-https.md`
-
----
 *Notes by Abdu | Red Team Journey 2026*

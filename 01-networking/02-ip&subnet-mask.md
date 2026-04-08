@@ -1,5 +1,4 @@
 # 02 — IP Address & Subnet Mask
-> **Status:** Done | **Date:** 2026-03-29
 > **Covered:** What is IP, IPv4, IPv6 intro, subnet mask, CIDR, Class C, weekly practice plan
 
 ---
@@ -175,22 +174,6 @@ You find: 10.10.10.5/24
 → Usable targets: 10.10.10.1 to 10.10.10.254
 → Scan all 254 with Nmap
 ```
-
----
-
-## 📅 WEEKLY PRACTICE PLAN — SUBNETTINGPRACTICE.COM
-
-Do this every day this week. Takes only 15 minutes. Do it before bed or after study.
-
-| Day | Practice Task | Site |
-|---|---|---|
-| Monday | Class C /24 only — network, broadcast, hosts | subnettingpractice.com |
-| Tuesday | Class C /24 and /25 — splitting in half | subnettingpractice.com |
-| Wednesday | /24, /25, /26, /27 — all four | subnettingpractice.com |
-| Thursday | Mixed Class C — random CIDR, speed practice | subnettingpractice.com |
-| Friday | Timed mode — answer as fast as you can | subnettingpractice.com |
-| Saturday | ipcalc in terminal — verify your answers | Terminal |
-| Sunday | Write 5 subnets from memory, no help | Paper or notes |
 
 ### For every question on the site, answer these 4 things:
 ```
