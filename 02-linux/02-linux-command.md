@@ -1,5 +1,4 @@
 # 02 — Linux Commands — Zero to Confident
-> **Chapter:** 2 of 2 | **Date:** 2026-04-09
 > **Read Chapter 1 first — file hierarchy**
 
 ---
